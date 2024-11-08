@@ -4,4 +4,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/majunze2001/majunze2001/output/github-contribution-grid-snake.svg">
 </picture>
 
-[majunze.com](https://majunze.com/)
+[Homepage](https://jeff.junzema.com/)
